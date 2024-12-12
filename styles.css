@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.bg-cs {
+    background: #1e293b; /* Dark blue-gray */
+}
+.text-cs {
+    color: #38bdf8; /* Light blue */
+}
+.border-cs {
+    border-color: #38bdf8; /* Light blue */
+}
+.bg-cs-light {
+    background: #0f172a; /* Darker blue-gray */
+}
+.bg-cs-hover:hover {
+    background: #38bdf8; /* Light blue */
+    color: #1e293b; /* Dark blue-gray */
+}
